@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+6cb8e74e01a0dc13f5637cde3be448daebf15ff7 refs/remotes/origin/Minirob-Workspace-Ben
+34a28b539eb7a4b52c2a5ee80cc94d7fa9550f86 refs/remotes/origin/ben-testing
+335d22a354d2d06d66141cae93ed378bfa448558 refs/remotes/origin/comp-testing
+6cb8e74e01a0dc13f5637cde3be448daebf15ff7 refs/remotes/origin/main
+759cfe0db8aa84eef41713b110b1bfb966adcff5 refs/remotes/origin/new-package-UDP
+6cb8e74e01a0dc13f5637cde3be448daebf15ff7 refs/remotes/origin/state-beeper
